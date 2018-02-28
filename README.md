@@ -1,14 +1,15 @@
 # Contacts
 
-[Edit this project on StackBlitz](https://stackblitz.com/edit/articles)
+[Demo](https://ionic-contacts.stackblitz.io)
+
+[Edit this project on StackBlitz](https://stackblitz.com/edit/ionic-contacts)
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template with the Ionic CLI:
 
-First you need to run `npm install`.
 
-After that, to preview in your browser simply run:
+To preview in your browser simply run:
 
 ```bash
 $ ionic serve
