@@ -1,4 +1,4 @@
-# Contacts
+# Contacts [TEMPORARY REST API IS DOWN]
 
 [Demo](https://ionic-contacts.stackblitz.io)
 
